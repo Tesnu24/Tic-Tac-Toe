@@ -10,7 +10,7 @@ A simple Tic Tac Toe game built using HTML, CSS, and JavaScript.
 - Responsive design
 
 ## How to Play
-Choose a mode, enter names, and take turns marking X or O. First to get 3 in a row wins!
+Choose a mode, enter names, and take turns marking X or O. First to get 3 in a row,column or diagonal wins.
 
 ## Tech Used
 HTML, CSS, JavaScript
